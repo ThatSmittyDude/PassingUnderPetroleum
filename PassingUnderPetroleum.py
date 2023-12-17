@@ -15,3 +15,14 @@ while True:
     if user_input != 'y':
         print("Exiting...")
         break  # Exit the loop
+        
+        # -*- coding: utf-8 -*-
+        """
+        Created on Thu Dec 14 19:20:59 2023
+
+        @author: Austin Smith
+                 ThatSmittyDude@outlook.com
+                 passingunderyellow.com
+                 puyinside.com
+                 aurinside.com
+        """
